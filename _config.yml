@@ -1,0 +1,7 @@
+title: Alyssa Player
+remote_theme: zerostaticthemes/jekyll-serif-theme
+baseurl: ""
+url: "https://alyssaplayer.github.io"
+
+plugins:
+  - jekyll-remote-theme
