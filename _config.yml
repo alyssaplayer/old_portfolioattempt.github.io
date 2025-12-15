@@ -1,5 +1,5 @@
 title: Alyssa Player
-remote_theme: pages-themes/cayman
+theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://alyssaplayer.github.io"
 
