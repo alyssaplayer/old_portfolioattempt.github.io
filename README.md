@@ -1,5 +1,4 @@
 # alyssaplayer.github.io
-theme: jekyll-theme-minimal
 Alyssa Player 
 
 I'm a data scientist with 2 years of experience turning data into actionable insights. 
