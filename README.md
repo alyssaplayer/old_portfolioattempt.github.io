@@ -1,4 +1,3 @@
-# alyssaplayer.github.io
 Alyssa Player 
 
 I'm a data scientist with 2 years of experience turning data into actionable insights. 
